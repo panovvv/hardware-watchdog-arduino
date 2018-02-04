@@ -1,0 +1,15 @@
+.classpath
+.project
+.settings
+.layout
+target
+/.metadata
+/.recommenders
+/.sonarlint
+/RemoteSystemsTempFiles
+.idea
+*.iml
+*.bak
+*/**/*.jar
+bin
+*.class
