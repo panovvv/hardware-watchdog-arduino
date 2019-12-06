@@ -11,3 +11,7 @@ repositories {
 dependencies {
     implementation "com.fazecast:jSerialComm:1.3.10"
 }
+
+application {
+    applicationDefaultJvmArgs = ['-Xmx50m']
+}
