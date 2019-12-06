@@ -1,0 +1,13 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+version='1.0-SNAPSHOT'
+mainClassName='com.shortn0tes.watchdog.Main'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation "com.fazecast:jSerialComm:1.3.10"
+}

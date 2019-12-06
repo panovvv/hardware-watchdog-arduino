@@ -13,3 +13,5 @@ target
 */**/*.jar
 bin
 *.class
+watchdog_java/build
+watchdog_java/.gradle
